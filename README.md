@@ -35,9 +35,9 @@ I'm always open to collaborating on interesting projects. If you have an idea or
 
 ## 🎯 GitHub Stats
 
-![Tom Jefferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+![Tom Jefferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomjefferis&show_icons=true&hide=contribs,prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)](https://github.com/your-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomjefferis&layout=compact)](https://github.com/your-username/github-readme-stats)
 
 <!-- Add any additional badges or sections you want -->
 
