@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Tom Jefferis, a passionate PhD researcher and software engineer from [Your Location]. Welcome to my GitHub profile! 🚀
+I'm Tom Jefferis, a passionate PhD researcher and software engineer from the UK. Welcome to my GitHub profile! 🚀
 
 ## 🔧 Technologies & Tools
 
