@@ -10,7 +10,7 @@ I'm Tom Jefferis, a passionate PhD researcher and software engineer from the UK.
 
 ## 🌱 Currently Learning
 
-I am currently focused on improving my skills in LLMs using Google Gemini and VertexAPI.
+I am currently focused on improving my skills in LLMs using Google Gemini and VertexAI.
 
 ## 📚 Currently Studying
 
