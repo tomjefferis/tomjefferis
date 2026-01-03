@@ -4,7 +4,7 @@ Postdoctoral Research Fellow at the University of Birmingham. My research focuse
 
 ## Technologies & Tools
 
-**Languages:** Python, MATLAB, SQL  
+**Languages:** Python, MATLAB, SQL, Web, Java, C++, C#  
 **Analysis:** FieldTrip, SPM, EEGLab, NumPy/SciPy, pandas, scikit-learn, pytorch  
 **Methods:** Dynamic Time Warping, statistical modelling, permutation testing, cluster-based correction, resampling techniques, machine learning
 
