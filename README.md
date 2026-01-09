@@ -31,4 +31,4 @@ Open to collaboration on signal processing, time series methods, or ML applicati
 
 ## GitHub Stats
 ![Tom Jefferis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomjefferis&show_icons=true&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomjefferis&layout=compact)](https://github.com/your-username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomjefferis&layout=compact)](https://github.com/tomjefferis/github-readme-stats)
